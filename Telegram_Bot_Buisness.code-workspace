@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Telegram_Bot_Buisness",
+			"path": "."
+		},
+		{
+			"name": ".idea",
+			"path": "../../RiderProjects/telegram_bot_dex/.idea"
+		},
+		{
+			"name": "Domain",
+			"path": "../../RiderProjects/telegram_bot_dex/Domain"
+		}
+	],
+	"settings": {}
+}
